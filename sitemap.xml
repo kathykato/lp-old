@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+<url>
+  <loc>https://luisspainting.com/</loc>
+  <lastmod>2017-10-11T03:45:22+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>https://luisspainting.com/about</loc>
+  <lastmod>2017-10-11T03:45:22+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>https://luisspainting.com/services</loc>
+  <lastmod>2017-10-11T03:45:22+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>https://luisspainting.com/portfolio</loc>
+  <lastmod>2017-10-11T03:45:22+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+<url>
+  <loc>https://luisspainting.com/contact</loc>
+  <lastmod>2017-10-11T03:45:22+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+</url>
+</urlset>
